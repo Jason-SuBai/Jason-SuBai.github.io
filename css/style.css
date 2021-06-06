@@ -126,7 +126,7 @@
 }
 article {
   color: #444;
-  font-family: PingFang-SC;
+  font-family: microsoft yahei;
 }
 article p {
   line-height: 24px;
@@ -153,7 +153,7 @@ article code::-webkit-scrollbar-thumb {
   border-radius: 13px;
 }
 .highlight * {
-  font-family: PingFang-SC;
+  font-family: monospace;
 }
 .highlight .line {
   padding: 0 1em;
@@ -661,21 +661,6 @@ font.douyin {
   bottom: 0;
   width: 100%;
   z-index: -1;
-}
-@font-face {
-  font-family: PingFang-SC;
-  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/PingFang-SC.otf");
-  font-display: swap;
-}
-@font-face {
-  font-family: Candy;
-  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/Candy.ttf");
-  font-display: swap;
-}
-@font-face {
-  font-family: OldEnglish;
-  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/OldEnglish.TTF");
-  font-display: swap;
 }
 article.nexmoe-py > *:first-child {
   margin-top: 0 !important;
