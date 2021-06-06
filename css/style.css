@@ -1386,6 +1386,21 @@ a:hover {
 .mdui-ripple {
   cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/hand.cur"), pointer;
 }
+@font-face {
+  font-family: Candy;
+  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/Candy.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: OldEnglish;
+  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/OldEnglish.TTF");
+  font-display: swap;
+}
+@font-face {
+  font-family: PingFang-SC;
+  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/PingFang-SC.otf");
+  font-display: swap;
+}
 @-moz-keyframes shake-it {
   0% {
     text-shadow: 0 0 rgba(0,255,255,0.5), 0 0 rgba(255,0,0,0.5);
