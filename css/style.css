@@ -764,6 +764,7 @@ a {
 body {
   max-width: 1160px;
   margin: auto !important;
+  font-family: Candy, sans-serif;
   cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/mouse.cur"), auto;
 }
 .medium-zoom-overlay {
