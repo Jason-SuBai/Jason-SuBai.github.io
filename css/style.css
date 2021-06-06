@@ -764,7 +764,7 @@ a {
 body {
   max-width: 1160px;
   margin: auto !important;
-  cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.1.6/images/mouse.cur"), auto;
+  cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/Arrow.cur"), auto;
 }
 .medium-zoom-overlay {
   z-index: 9999;
