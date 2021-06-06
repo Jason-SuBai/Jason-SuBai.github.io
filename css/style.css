@@ -1367,6 +1367,18 @@ photos img {
   color: #fff;
   background-color: rgba(144,144,255,0.7);
 }
+::selection {
+  background: #70a1ff;
+  color: #555;
+}
+::-moz-selection {
+  background: #70a1ff;
+  color: #555;
+}
+::-webkit-selection {
+  background: #70a1ff;
+  color: #555;
+}
 @-moz-keyframes shake-it {
   0% {
     text-shadow: 0 0 rgba(0,255,255,0.5), 0 0 rgba(255,0,0,0.5);
