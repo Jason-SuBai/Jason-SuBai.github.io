@@ -1382,6 +1382,9 @@ photos img {
 a:hover {
   cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/hand.cur"), pointer;
 }
+.mdui-ripple {
+  cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/hand.cur"), pointer;
+}
 @-moz-keyframes shake-it {
   0% {
     text-shadow: 0 0 rgba(0,255,255,0.5), 0 0 rgba(255,0,0,0.5);
