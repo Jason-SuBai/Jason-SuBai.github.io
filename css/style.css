@@ -1369,15 +1369,15 @@ photos img {
 }
 ::selection {
   background: #70a1ff;
-  color: #555;
+  color: #fff;
 }
 ::-moz-selection {
   background: #70a1ff;
-  color: #555;
+  color: #fff;
 }
 ::-webkit-selection {
   background: #70a1ff;
-  color: #555;
+  color: #fff;
 }
 @-moz-keyframes shake-it {
   0% {
