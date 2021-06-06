@@ -126,7 +126,7 @@
 }
 article {
   color: #444;
-  font-family: microsoft yahei;
+  font-family: PingFang-SC;
 }
 article p {
   line-height: 24px;
@@ -661,6 +661,11 @@ font.douyin {
   bottom: 0;
   width: 100%;
   z-index: -1;
+}
+@font-face {
+  font-family: PingFang-SC;
+  src: url("https://cdn.jsdelivr.net/gh/hassanblog/hassanblog.github.io/fonts/PingFang-SC.otf");
+  font-display: swap;
 }
 article.nexmoe-py > *:first-child {
   margin-top: 0 !important;
