@@ -662,9 +662,6 @@ font.douyin {
   width: 100%;
   z-index: -1;
 }
-a:hover {
-  cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/hand.cur"), pointer;
-}
 article.nexmoe-py > *:first-child {
   margin-top: 0 !important;
 }
