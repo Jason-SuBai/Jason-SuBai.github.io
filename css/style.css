@@ -764,7 +764,7 @@ a {
 body {
   max-width: 1160px;
   margin: auto !important;
-  cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/Arrow.cur"), auto;
+  cursor: url("https://cdn.jsdelivr.net/gh/Jason-SuBai/image@main/mouse.cur"), auto;
 }
 .medium-zoom-overlay {
   z-index: 9999;
