@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://sjtblog.cn</id>
     <title>望月阁 • Posts by &#34;java&#34; category</title>
-    <link href="http://example.com" />
+    <link href="http://sjtblog.cn" />
     <updated>2023-10-09T01:55:42.000Z</updated>
-    <category term="JavaSE" />
     <category term="MySQL" />
+    <category term="JavaSE" />
     <entry>
-        <id>http://example.com/pages/JavaSE/JavaSEoop/</id>
+        <id>http://sjtblog.cn/pages/JavaSE/JavaSEoop/</id>
         <title>面向对象高级</title>
-        <link rel="alternate" href="http://example.com/pages/JavaSE/JavaSEoop/"/>
+        <link rel="alternate" href="http://sjtblog.cn/pages/JavaSE/JavaSEoop/"/>
         <content type="html">&lt;meta name=&#34;referrer&#34; content=&#34;no-referrer&#34; /&gt;
 &lt;h1 id=&#34;面向对象高级&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#面向对象高级&#34;&gt;#&lt;/a&gt; 面向对象高级&lt;/h1&gt;
 &lt;p&gt;面向对象是写 Java 程序的核心套路，如何你不懂面向对象，那就相当于 Java 你白学了。所以需要克服重重困难好好学习。&lt;/p&gt;

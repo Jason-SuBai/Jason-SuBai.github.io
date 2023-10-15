@@ -2,17 +2,17 @@
 <rss version="2.0">
     <channel>
         <title>望月阁 • Posts by &#34;mysql&#34; category</title>
-        <link>http://example.com</link>
+        <link>http://sjtblog.cn</link>
         <description>一个萌新的学习笔记</description>
         <language>zh-CN</language>
         <pubDate>Sat, 14 Oct 2023 16:13:42 +0800</pubDate>
         <lastBuildDate>Sat, 14 Oct 2023 16:13:42 +0800</lastBuildDate>
-        <category>JavaSE</category>
         <category>MySQL</category>
+        <category>JavaSE</category>
         <item>
-            <guid isPermalink="true">http://example.com/pages/MySQL/mysql/</guid>
+            <guid isPermalink="true">http://sjtblog.cn/pages/MySQL/mysql/</guid>
             <title>MySQL快速入门</title>
-            <link>http://example.com/pages/MySQL/mysql/</link>
+            <link>http://sjtblog.cn/pages/MySQL/mysql/</link>
             <category>MySQL</category>
             <pubDate>Sat, 14 Oct 2023 16:13:42 +0800</pubDate>
             <description><![CDATA[ &lt;meta name=&#34;referrer&#34; content=&#34;no-referrer&#34; /&gt;

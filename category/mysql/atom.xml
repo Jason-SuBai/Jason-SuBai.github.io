@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://sjtblog.cn</id>
     <title>望月阁 • Posts by &#34;mysql&#34; category</title>
-    <link href="http://example.com" />
+    <link href="http://sjtblog.cn" />
     <updated>2023-10-14T08:13:42.000Z</updated>
-    <category term="JavaSE" />
     <category term="MySQL" />
+    <category term="JavaSE" />
     <entry>
-        <id>http://example.com/pages/MySQL/mysql/</id>
+        <id>http://sjtblog.cn/pages/MySQL/mysql/</id>
         <title>MySQL快速入门</title>
-        <link rel="alternate" href="http://example.com/pages/MySQL/mysql/"/>
+        <link rel="alternate" href="http://sjtblog.cn/pages/MySQL/mysql/"/>
         <content type="html">&lt;meta name=&#34;referrer&#34; content=&#34;no-referrer&#34; /&gt;
 &lt;h1 id=&#34;mysql快速入门&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mysql快速入门&#34;&gt;#&lt;/a&gt; MySQL 快速入门&lt;/h1&gt;
 &lt;h2 id=&#34;操作数据库&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#操作数据库&#34;&gt;#&lt;/a&gt; 操作数据库&lt;/h2&gt;
