@@ -2240,6 +2240,12 @@ use.stop-animation {
 .social .item.bilibili i {
   color: #FFB6C1;
 }
+.social .item.email::before {
+  background-color: #55acd5;
+}
+.social .item.email i {
+  color: #55acd5;
+}
 .social .item:focus i,
 .social .item:hover i {
   color: var(--grey-0);
