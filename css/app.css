@@ -2241,10 +2241,10 @@ use.stop-animation {
   color: #FFB6C1;
 }
 .social .item.email::before {
-  background-color: #55acd5;
+  background-color: #999999;
 }
 .social .item.email i {
-  color: #55acd5;
+  color: #999999;
 }
 .social .item:focus i,
 .social .item:hover i {
